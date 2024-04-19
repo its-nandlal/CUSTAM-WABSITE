@@ -10,6 +10,12 @@ html, body{
     height: 100%;
 }
 
+
+@font-face {
+    font-family: kajiro;
+    src: url(font/Kajiro/Kajiro\ Bold.ttf);
+}
+
 #main{
     width: 100%;
     height: 100vh;
