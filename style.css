@@ -121,7 +121,7 @@ html, body{
     top: 100%;
     left: 0;
     line-height: .9;
-    font-family: "kajiro";
+    font-family: kajiro;
     color: #fff;
     letter-spacing: 1px;
     font-size: 10.5vw;
@@ -136,7 +136,7 @@ html, body{
     pointer-events: all;
     cursor: pointer;
     margin-top: 4vw;
-    font-family: "kajiro";
+    font-family: kajiro;
     font-size: 3vw;
     padding: .3vw 3vw;
     background-color: #fff;
